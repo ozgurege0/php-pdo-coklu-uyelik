@@ -1,1 +1,2 @@
-Kurulum gayet basit bir veritabanı ve mysql kullanıcısı oluşturun ardından phpmyadmin üzerinden ilgili veritabanına sql dosyasını içe aktar diyerek aktarın. Sonrasında baglan.php dosyasına ilgili veritabanı adı, mysql kullanıcısı ve mysql kullanıcı şifresini girmeniz yeterli olacaktır. 
+Kurulum gayet basit bir veritabanı ve mysql kullanıcısı oluşturun ardından phpmyadmin üzerinden ilgili veritabanına sql dosyasını içe aktar diyerek aktarın. 
+Sonrasında baglan.php dosyasına ilgili veritabanı adı, mysql kullanıcısı ve mysql kullanıcı şifresini girmeniz yeterli olacaktır. 
